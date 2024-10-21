@@ -25,6 +25,7 @@ https://challenginno.ir/pdf_challenge/network/scanning/Nmap.pdf
 **-sV**
 
 5- جهت معرفی یک لیست از آدرس ها جت اسکن از چه سوییچی استفاده می شود؟ 
+
 **-iL**
 
 6-جهت دریافت خروجی XML با استفاده از ابزار Nmap از چه سوییچی استفاده می شود؟ 
