@@ -32,5 +32,7 @@ https://challenginno.ir/pdf_challenge/network/scanning/Nmap.pdf
 
 **-oX**
 
- 7-
+ 7- به منظور انجام اسکن در سریع ترین زمان ممکن از چه سوییچی استفاده می شود؟ 
+
+ **-T5**
  
