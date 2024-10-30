@@ -15,4 +15,7 @@
 
 **A@1234567**
    
+
+[information]=(HKEY_CURRENT_USER\SOFTWARE\Martin Prikryl\WinSCP 2\Sessions\)
+
 [information]=(https://github.com/anoopengineer/winscppasswd?tab=readme-ov-file)
