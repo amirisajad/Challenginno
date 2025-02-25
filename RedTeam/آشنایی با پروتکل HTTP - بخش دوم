@@ -1,0 +1,16 @@
+
+
+
+1-Referer
+
+2-X-Forwarded-For
+
+3-Session
+
+4-Persistent
+
+5-Set-Cookie
+
+6-Secure
+
+7-Path
