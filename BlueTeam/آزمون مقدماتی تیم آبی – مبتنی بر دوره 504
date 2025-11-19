@@ -7,3 +7,11 @@
 4-CyberChef
 
 5-pivoting
+
+6-netstat -abno 1
+
+7-HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+
+8-wevtutil
+
+9-volatility
